@@ -37,9 +37,6 @@ I achieved this by completing the following:
 
 This challenge is assessed on the following criteria: 
 
-#### Technical Acceptance Criteria: 40%
-
-
 ### Review
 
 You are required to submit the following for review:
