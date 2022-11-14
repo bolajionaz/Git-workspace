@@ -28,22 +28,23 @@ I achieved this by completing the following:
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-### Contributing Resources:
+### User Story
 
-* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
-* [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
 
-### Requirements
+### Acceptance Criteria
 
-This challenge is assessed on the following criteria: 
+Your website must meet accessibility standards. You can achieve this completing the following:
 
-### Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* Semantic HTML elements can be found throughout the source code
+* HTML elements follow a logical structure independent of styling and positioning
+* Image and icon elements contain accessible `alt` attributes
+* Heading attributes fall in sequential order
+* Title elements contain a concise, descriptive title
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
